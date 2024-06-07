@@ -86,14 +86,14 @@ Thanks for checking out my repo, and feel free to reach out or collaborate! 🤝
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+<br/>    
 
 
 
 
 
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pwgawzynski&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=debc95&locale=en" alt="pwgawzynski" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pwgawzynski&show_icons=true&theme=tokyonight&title_color=182C28&text_color=182C28&bg_color=debc95&locale=en" alt="pwgawzynski" /></p>
 </div>  
 <br/>  
 <br/>  
