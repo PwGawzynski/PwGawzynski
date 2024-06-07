@@ -15,6 +15,8 @@ Thanks for checking out my repo, and feel free to reach out or collaborate! 🤝
   
 
 <br/>  
+<br/>  
+<br/> 
 
 
 ## My Skill Set  
@@ -65,9 +67,11 @@ Thanks for checking out my repo, and feel free to reach out or collaborate! 🤝
 </td></tr></table>  
 
 <br/>  
+<br/>  
+<br/>  
 
 
-<h2 style="color: #DEBC95;">Connect with me</h2>
+
 <div align="center">
 <a href="https://linkedin.com/in/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -84,18 +88,16 @@ Thanks for checking out my repo, and feel free to reach out or collaborate! 🤝
 </div>  
   
 
-<br/>  
 
 
-## Github Stats  
+
+
 <div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pwgawzynski&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=debc95&locale=en" alt="pwgawzynski" /></p>
 </div>  
-<br />
-<br />
-<br />
-<br />
-<br />
+<br/>  
+<br/>  
+<br/> 
 <div align="center">
 
 <div>
